@@ -1,4 +1,4 @@
-## Self-Driving Car Prediction
+# Self-Driving Car Prediction
 
 This repository contains the code and methodology for collecting, loading, and preprocessing data obtained from the Open Source Self-Driving Car project. The primary objective is to utilize this data to predict steering and throttle actions based on images of cars. Two different approaches were explored and implemented, leveraging both TensorFlow Keras and PyTorch frameworks.
 
